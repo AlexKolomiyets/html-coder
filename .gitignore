@@ -1,0 +1,5 @@
+/package-lock.json
+/node_modules/
+/.idea/
+app/css/style.css.map
+app/css/style.css
