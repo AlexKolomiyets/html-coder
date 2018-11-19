@@ -52,13 +52,13 @@ header{
 		&.active{
 			color: #fff; 
 			border-color: #045279; 
-			background: linear-gradient(top, rgb(8,121,168) 0%,rgb(6,99,150) 100%);
+			background: linear-gradient(to top, rgb(8,121,168) 0%,rgb(6,99,150) 100%);
 			box-shadow: inset 0px 1px 0px 0px rgba(255, 255, 255, 0.25);
 		}
 		&:hover{
 			color: #fff; 
 			border-color: #045279; 
-			background: linear-gradient(top, rgb(8,121,168) 0%,rgb(6,99,150) 100%);
+			background: linear-gradient(to top, rgb(8,121,168) 0%,rgb(6,99,150) 100%);
 			box-shadow: inset 0px 1px 0px 0px rgba(255, 255, 255, 0.25);
 		}
 	}
